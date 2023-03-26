@@ -12,6 +12,7 @@
     "@types/node": "18.15.10",
     "@types/react": "18.0.29",
     "@types/react-dom": "18.0.11",
+    "cookies": "^0.8.0",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
     "http-proxy": "^1.18.1",
@@ -21,6 +22,7 @@
     "typescript": "5.0.2"
   },
   "devDependencies": {
+    "@types/cookies": "^0.7.7",
     "@types/http-proxy": "^1.17.10"
   }
 }
